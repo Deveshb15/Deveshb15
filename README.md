@@ -1,7 +1,7 @@
-#### Hi there 👋
-## 🌱 I’m currently learning Web Development.
-## 🤔 I’m looking for help with ReactJS.
-## 📫 How to reach me: deveshb583@gmail.com
+### Hi there 👋
+# 🌱 I’m currently learning Web Development.
+# 🤔 I’m looking for help with ReactJS.
+# 📫 How to reach me: deveshb583@gmail.com
 
 ![alt text](https://images.unsplash.com/photo-1605379399642-870262d3d051?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1081&q=80)
 
