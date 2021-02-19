@@ -3,10 +3,6 @@
 <a href="https://twitter.com/Deveshb15">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.deveshb.ml">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-  <i class="fas fa-globe"></i>
-</a>
 <a href="mailto:deveshb583@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
@@ -14,7 +10,8 @@
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 
-<br />
+<br/>
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=Deveshb15)
 
