@@ -18,7 +18,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Deveshb15)
 
-#### 🤔 I’m looking for help with ReactJS.
 #### 📫 How to reach me: deveshb583@gmail.com
 #### 😄 Pronouns: He/Him
 
