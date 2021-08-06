@@ -20,7 +20,6 @@
 
 #### 📫 How to reach me: deveshb583@gmail.com
 #### 🧰 I work with JavaScript most of the time.
-#### 😄 Pronouns: He/Him
 
 
 
