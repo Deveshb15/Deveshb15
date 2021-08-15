@@ -1,16 +1,16 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Devesh!
 
 <a href="https://twitter.com/Deveshb15" target="_blank">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
 <a href="mailto:deveshb583@gmail.com" target="_blank">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 <a href="https://www.deveshb.co" target="_blank">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg"  />
 </a>
 <a href="https://www.linkedin.com/in/deveshrb/" target="_blank">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 
 <br/>
