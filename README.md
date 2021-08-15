@@ -7,7 +7,7 @@
   <img width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>&ensp;
 <a href="https://www.deveshb.co" target="_blank">
-  <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg"  />
+  <img width="30px" src="https://i.ibb.co/Jx9Y67h/brand-icon.png"  />
 </a>&ensp;
 <a href="https://www.linkedin.com/in/deveshrb/" target="_blank">
   <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
