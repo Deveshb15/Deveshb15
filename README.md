@@ -2,13 +2,13 @@
 
 <a href="https://twitter.com/Deveshb15" target="_blank">
   <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-</a>
+</a>&ensp;
 <a href="mailto:deveshb583@gmail.com" target="_blank">
   <img width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-</a>
+</a>&ensp;
 <a href="https://www.deveshb.co" target="_blank">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg"  />
-</a>
+  <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg"  />
+</a>&ensp;
 <a href="https://www.linkedin.com/in/deveshrb/" target="_blank">
   <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
