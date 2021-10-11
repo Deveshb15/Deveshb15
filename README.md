@@ -23,7 +23,7 @@
 
 
 
-![Deveshb15's github stats](https://abigo-stats.abigo.vercel.app/api?username=Deveshb15&show_icons=true)
+![Deveshb15's github stats](https://github-readme-stats-deveshb15.vercel.app/api?username=Deveshb15&show_icons=true)
 
 <!--
 **DeveshRB/DeveshRB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
