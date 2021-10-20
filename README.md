@@ -18,7 +18,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Deveshb15)
 
-#### 📫 How to reach me: deveshb583@gmail.com
+#### 📫 How to reach me: deveshbhimanpelli@gmail.com
 #### 🧰 I work with JavaScript most of the time.
 
 
