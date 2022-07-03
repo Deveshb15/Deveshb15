@@ -6,7 +6,7 @@
 <a href="mailto:deveshbhimanpelli@gmail.com" target="_blank">
   <img width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>&ensp;
-<a href="https://www.deveshb.co" target="_blank">
+<a href="https://deveshb.hashnode.dev/" target="_blank">
   <img width="30px" src="https://i.ibb.co/Jx9Y67h/brand-icon.png"  />
 </a>&ensp;
 <a href="https://www.linkedin.com/in/deveshrb/" target="_blank">
@@ -28,6 +28,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat-square&logo=graphql)
 
 ### Libraries & Framework :
 
