@@ -28,7 +28,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat-square&logo=graphql)
 
 ### Libraries & Framework :
 
@@ -39,6 +38,7 @@
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat-square&logo=graphql)
 ![Jest](https://img.shields.io/badge/-Jest-red?style=flat-square&logo=jest)
 
 ### Tools:
