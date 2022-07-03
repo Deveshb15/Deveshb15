@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Devesh!
+# Hi there, I'm Devesh!
 
 <a href="https://twitter.com/Deveshb15" target="_blank">
   <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
