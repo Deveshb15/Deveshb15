@@ -2,4 +2,4 @@
 
 - currently playing around with ai🤖
 - prev @ kello.ai, muzify.ai and asset.money 🦄
-- weekndd is my jam 🍉
+- weeknd is my jam 🍉
